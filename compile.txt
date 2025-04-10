@@ -1,0 +1,3 @@
+﻿! EM ORDERM:
+
+gfortran -o mnf_oct lib_oct_mnf.f90 main.f90
